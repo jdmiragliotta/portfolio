@@ -114,7 +114,7 @@ Notes:	 Hand coded for jmigsdesign.com
    .panel ul {
    		color: #fff;
    		list-style: none;
-   		padding-left: 0;
+   		padding: 0;
    }
    
    
@@ -189,9 +189,10 @@ Notes:	 Hand coded for jmigsdesign.com
 		border-color: #fff;
 	}
 	
-	.btn-print .btn-web{
-		display: inline-block;
-		vertical-align: top;
+	.btn-print, .btn-web{
+		padding-left: 43px;
+		padding-right: 43px;
+		margin: 1px;
 	}
 	
 	
