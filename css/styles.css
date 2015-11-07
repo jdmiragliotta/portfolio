@@ -55,10 +55,10 @@ Notes:	 Hand coded for jmigsdesign.com
    		padding-left: 55px;
    	}
 
-	.about {
-		margin: 0 0 8px;
-	}
-	
+		.about {
+			margin: 0 0 8px;
+		}
+		
 	
 	
 	
@@ -416,14 +416,14 @@ Notes:	 Hand coded for jmigsdesign.com
 /* Portrait & landscape phone */
 @media (max-width: 480px) {
 	.hidden-xs {
-	    display: none !important;
+	    display: none;
 	}
 	tr.hidden-xs {
-	    display: none !important;
+	    display: none;
     }
 	th.hidden-xs,
 	td.hidden-xs {
-	    display: none !important;
+	    display: none;
 	}
 	
 	#myCarousel .item { 
